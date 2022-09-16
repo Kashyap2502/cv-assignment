@@ -1,0 +1,40 @@
+0 min : 2 secs, color : Yellow, position : 3  entry
+0 min : 5 secs, color : White, position : 2  entry
+0 min : 9 secs , color : Blue, position : 4  entry
+0 min : 14 secs, color : Orange, position : 1  entry
+0 min : 15 secs, color : White, position : 2  exit
+0 min : 20 secs, color : Blue, position : 4  exit
+0 min : 23 secs, color : Orange, position : 1  exit
+0 min : 24 secs, color : White, position : 4  entry
+0 min : 27 secs, color : Orange, position : 2  entry
+0 min : 31 secs, color : Yellow, position : 3  exit
+0 min : 33 secs , color : Blue, position : 3  entry
+0 min : 36 secs, color : Yellow, position : 1  entry
+0 min : 43 secs, color : Yellow, position : 1  exit
+0 min : 43 secs, color : Orange, position : 2  exit
+0 min : 46 secs, color : Blue, position : 3  exit
+0 min : 46 secs, color : White, position : 4  exit
+0 min : 48 secs, color : Yellow, position : 3  entry
+0 min : 50 secs, color : White, position : 4  entry
+0 min : 52 secs, color : Orange, position : 1  entry
+0 min : 54 secs , color : Blue, position : 4  entry
+0 min : 55 secs, color : White, position : 4  exit
+1 min : 0 secs, color : White, position : 2  entry
+1 min : 4 secs, color : Blue, position : 4  exit
+1 min : 2 secs, color : White, position : 2  exit
+1 min : 6 secs, color : Orange, position : 1  exit
+1 min : 6 secs, color : Yellow, position : 3  exit
+1 min : 9 secs, color : Yellow, position : 1  entry
+1 min : 12 secs, color : Yellow, position : 1  exit
+1 min : 12 secs, color : White, position : 3  entry
+1 min : 12 secs, color : Yellow, position : 1  entry
+1 min : 16 secs , color : Blue, position : 2  entry
+1 min : 17 secs, color : Orange, position : 4  entry
+1 min : 24 secs, color : Yellow, position : 1  exit
+1 min : 24 secs, color : Blue, position : 2  exit
+1 min : 28 secs, color : Orange, position : 4  exit
+1 min : 27 secs, color : White, position : 3  exit
+1 min : 29 secs, color : Orange, position : 1  entry
+1 min : 39 secs , color : Blue, position : 4  entry
+1 min : 39 secs, color : White, position : 2  entry
+1 min : 40 secs, color : Yellow, position : 3  entry
